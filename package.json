@@ -1,0 +1,17 @@
+{
+  "name": "level_5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addTodo.js",
+  "dependencies": {
+    "jest": "^29.0.2",
+    "minimist": "^1.2.6",
+    "pg": "^8.8.0",
+    "sequelize": "^6.23.0"
+    },
+"scripts": {
+  "test": "jest --detectOpenHandles"},
+"keywords": [],
+  "author": "John-Doe <john.doe@example.com>",
+  "license": "ISC"
+}
